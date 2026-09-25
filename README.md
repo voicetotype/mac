@@ -1,3 +1,3 @@
-# VoiceToType releases
+# Voice to Type App
 
-macOS builds of [VoiceToType](https://voicetotype.com). Download: https://voicetotype.com/download
+macOS app releases of [VoiceToType](https://voicetotype.com). Download: https://voicetotype.com/download
